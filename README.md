@@ -1,4 +1,4 @@
-# challenge
+# Challenge Take Blip
 Teste Técnico - Dev
 
 Nesse projeto foi desenvolvida uma API para buscar dados da API pública do github, o código da API pode ser acessado na pasta "apiDesafioTecnico/Controllers".
