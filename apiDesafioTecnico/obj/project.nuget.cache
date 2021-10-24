@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CrPHSr1XzTOSJghrMqAD3xp6UXjNScfAmz6Glj8qkMSoipZ08wkel5Y28kbAObu9bopH/Y84SQNJPGvS8wbddw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Guilh\\source\\repos\\apiDesafioTecnico\\apiDesafioTecnico\\apiDesafioTecnico.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Guilh\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Guilh\\.nuget\\packages\\octokit\\0.50.0\\octokit.0.50.0.nupkg.sha512",
+    "C:\\Users\\Guilh\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\Guilh\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
